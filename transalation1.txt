@@ -1,0 +1,258 @@
+Here's the English-to-Hindi step-by-step translation of the video transcript:
+
+---
+
+**0:00**
+**English:** What's behind the crash of India's tech giants?
+**Hindi:** भारत की टेक कंपनियों के पतन के पीछे क्या कारण है?
+
+**0:02**
+**English:** No hikes, crashing stocks, job cuts
+**Hindi:** वेतनवृद्धि नहीं, शेयरों में गिरावट, नौकरियों में कटौती
+
+**0:07**
+**English:** Is artificial intelligence the culprit here or are Trump's tariffs to blame?
+**Hindi:** क्या इसका कारण आर्टिफिशियल इंटेलिजेंस है या ट्रंप के टैरिफ़?
+
+**0:12**
+**English:** Analysts say the reasons are many—like global economic uncertainty, potential US recession fears, and technological disruptions.
+**Hindi:** विश्लेषकों का कहना है कि इसके कई कारण हैं—जैसे वैश्विक आर्थिक अनिश्चितता, अमेरिका में संभावित मंदी का डर और तकनीकी बदलाव।
+
+**0:20**
+**English:** Others say that the Indian IT companies have not checked on inefficiency issues.
+**Hindi:** कुछ लोग कहते हैं कि भारतीय आईटी कंपनियों ने अपनी अक्षमता की समस्याओं पर ध्यान नहीं दिया।
+
+**0:27**
+**English:** Infosys, TCS and Wipro have just posted some of their weakest results in years.
+**Hindi:** इंफोसिस, टीसीएस और विप्रो ने वर्षों में अपने सबसे कमजोर नतीजे पेश किए हैं।
+
+**0:33**
+**English:** But make no mistake—this isn’t just about a global slowdown or a tariff war.
+**Hindi:** लेकिन यह सिर्फ वैश्विक मंदी या टैरिफ युद्ध की बात नहीं है।
+
+**0:38**
+**English:** It's a moment of reckoning for an industry that's long been India’s economic crown jewel.
+**Hindi:** यह उस उद्योग के लिए आत्ममंथन का समय है जो लंबे समय से भारत की आर्थिक शान रहा है।
+
+**0:45**
+**English:** This is Quick Take, your quick guide. I’m Smitha Prakash.
+**Hindi:** यह है क्विक टेक—आपका त्वरित मार्गदर्शक। मैं हूँ स्मिता प्रकाश।
+
+**0:55**
+**English:** More than a tech slowdown.
+**Hindi:** यह सिर्फ टेक उद्योग की मंदी से कहीं अधिक है।
+
+**0:58**
+**English:** Let’s start with the numbers.
+**Hindi:** आइए आँकड़ों से शुरू करते हैं।
+
+**1:00**
+**English:** TCS reported its slowest revenue growth in four years.
+**Hindi:** टीसीएस ने चार वर्षों में अपनी सबसे धीमी राजस्व वृद्धि दर्ज की।
+
+**1:02**
+**English:** Infosys saw a 12% decline in profits.
+**Hindi:** इंफोसिस के मुनाफे में 12% की गिरावट आई।
+
+**1:06**
+**English:** While Wipro posted its weakest ever revenue barring the pandemic slump.
+**Hindi:** और विप्रो ने महामारी को छोड़कर अब तक की सबसे कमजोर आय दर्ज की।
+
+**1:11**
+**English:** It's a harsh reality check.
+**Hindi:** यह एक कड़ी सच्चाई का सामना है।
+
+**1:14**
+**English:** Salary hikes are on hold.
+**Hindi:** वेतनवृद्धियाँ रोक दी गई हैं।
+
+**1:17**
+**English:** New hiring is nearly frozen, especially at entry-level positions.
+**Hindi:** नई भर्ती लगभग बंद है, खासकर शुरुआती स्तर पर।
+
+**1:20**
+**English:** Forecasts for FY26 are tepid at best.
+**Hindi:** वित्त वर्ष 2026 के लिए पूर्वानुमान भी बहुत कमजोर हैं।
+
+**1:24**
+**English:** TCS has already delayed salary revisions.
+**Hindi:** टीसीएस पहले ही वेतन संशोधन में देरी कर चुकी है।
+
+**1:26**
+**English:** Infosys is predicting flat to 3% growth next year.
+**Hindi:** इंफोसिस अगले साल 0 से 3% की वृद्धि की उम्मीद कर रही है।
+
+**1:30**
+**English:** Even freshers are facing delays in onboarding.
+**Hindi:** यहां तक कि नए भर्ती कर्मचारियों को भी शामिल करने में देरी हो रही है।
+
+**1:36**
+**English:** This isn’t just about cautious corporate budgeting.
+**Hindi:** यह सिर्फ सतर्क कॉर्पोरेट बजटिंग की बात नहीं है।
+
+**1:38**
+**English:** It’s about deeper structural concerns.
+**Hindi:** यह गहरे संरचनात्मक मुद्दों की बात है।
+
+**1:41**
+**English:** This comes at a time when in the US, India’s largest tech market, over \$5.1 billion worth of IT contracts have been shelved or cancelled.
+**Hindi:** यह ऐसे समय में हो रहा है जब अमेरिका—भारत का सबसे बड़ा टेक बाजार—में 5.1 अरब डॉलर के आईटी अनुबंध रद्द या स्थगित कर दिए गए हैं।
+
+**1:50**
+**English:** And Trump’s recent tariff hike on Chinese and foreign tech goods has made clients even more hesitant to outsource big transformation projects to India.
+**Hindi:** और ट्रंप द्वारा चीनी और विदेशी तकनीकी वस्तुओं पर हाल ही में लगाए गए टैरिफ़ ने ग्राहकों को भारत को बड़े प्रोजेक्ट सौंपने से और भी हिचकिचा दिया है।
+
+**2:06**
+**English:** Zoho’s Sridhar Vembu says this slowdown is not temporary.
+**Hindi:** ज़ोहो के श्रीधर वेम्बु कहते हैं कि यह मंदी अस्थायी नहीं है।
+
+**2:09**
+**English:** And it’s not just about AI or tariffs.
+**Hindi:** और यह सिर्फ एआई या टैरिफ की बात नहीं है।
+
+**2:12**
+**English:** According to him, India’s IT industry has been growing on the back of a bubble for many years.
+**Hindi:** उनके अनुसार, भारत का आईटी उद्योग कई वर्षों से एक बुलबुले के सहारे बढ़ रहा है।
+
+**2:20**
+**English:** It’s got too comfortable, focused too much on itself, and mostly offered services that don’t add much value.
+**Hindi:** यह उद्योग बहुत ज़्यादा आत्मसंतुष्ट हो गया है, केवल अपने ऊपर ध्यान दिया और ऐसी सेवाएं दीं जिनमें बहुत अधिक मूल्य नहीं था।
+
+**2:27**
+**English:** His strongest criticism: the industry pulled in a lot of smart people who could have helped build factories, roads, or worked on new technologies.
+**Hindi:** उनकी सबसे कड़ी आलोचना: इस उद्योग ने बहुत से होशियार लोगों को खींच लिया, जो कारखाने, सड़कें या नई तकनीकों पर काम कर सकते थे।
+
+**2:36**
+**English:** And here’s the key point—he says this is just the beginning of a long, difficult phase.
+**Hindi:** और महत्वपूर्ण बात यह है—वे कहते हैं कि यह एक लंबे और कठिन दौर की सिर्फ शुरुआत है।
+
+**2:42**
+**English:** The years of quick growth and easy money may be behind us.
+**Hindi:** तेज़ विकास और आसान पैसे के दिन अब पीछे हो सकते हैं।
+
+**2:47**
+**English:** Making it through will mean making some tough decisions.
+**Hindi:** इससे पार पाने के लिए कड़े निर्णय लेने होंगे।
+
+(Translation continued in next message…)
+Would you like me to continue the translation from **2:54** onward?
+
+===========================================================================
+
+
+Great, here is the **continued English-to-Hindi translation from 2:54 onward**:
+
+---
+
+**2:54**
+**English:** Tariffs, layoffs, and AI anxiety
+**Hindi:** टैरिफ, छंटनी और एआई की चिंता
+
+**2:56**
+**English:** The US is going through a tech correction of its own.
+**Hindi:** अमेरिका भी अपनी टेक इंडस्ट्री में सुधार के दौर से गुजर रहा है।
+
+**2:58**
+**English:** Recession fears are rising.
+**Hindi:** मंदी का डर बढ़ता जा रहा है।
+
+**3:01**
+**English:** Layoffs have swept through Google, Microsoft, and other giants.
+**Hindi:** छंटनी ने गूगल, माइक्रोसॉफ्ट और अन्य बड़ी कंपनियों को भी प्रभावित किया है।
+
+**3:04**
+**English:** In 2025 alone, over 23,000 tech jobs have been lost globally just in the first few months.
+**Hindi:** केवल 2025 के शुरुआती महीनों में ही दुनिया भर में 23,000 से अधिक टेक नौकरियां चली गई हैं।
+
+**3:10**
+**English:** AI and automation—what was once human labor is now being replaced with code and algorithms.
+**Hindi:** एआई और ऑटोमेशन—जो काम पहले इंसान करते थे, अब उन्हें कोड और एल्गोरिदम से बदला जा रहा है।
+
+**3:14**
+**English:** Companies are trimming teams in the name of efficiency.
+**Hindi:** कंपनियाँ दक्षता के नाम पर टीमों को छोटा कर रही हैं।
+
+**3:22**
+**English:** But that's often shorthand for replacing people with machine learning tools and AI co-pilots.
+**Hindi:** लेकिन इसका मतलब अक्सर होता है इंसानों को मशीन लर्निंग टूल्स और एआई को-पायलट्स से बदलना।
+
+**3:30**
+**English:** This is putting enormous pressure on Indian IT firms,
+**Hindi:** इससे भारतीय आईटी कंपनियों पर जबरदस्त दबाव पड़ रहा है,
+
+**3:33**
+**English:** which built their fortunes on large teams managing legacy systems for global clients.
+**Hindi:** जिनका व्यवसाय बड़ी टीमों के जरिए वैश्विक ग्राहकों के पुराने सिस्टम संभालने पर आधारित था।
+
+**3:39**
+**English:** Now those clients want smarter, leaner, automated solutions.
+**Hindi:** अब वही ग्राहक अधिक स्मार्ट, छोटे और ऑटोमेटेड समाधान चाहते हैं।
+
+**3:45**
+**English:** What now for Indian IT?
+**Hindi:** अब भारतीय आईटी के लिए आगे क्या?
+
+**3:48**
+**English:** Companies are focusing on efficiency, innovation, and strategic workforce planning to navigate the slowdown.
+**Hindi:** कंपनियाँ मंदी से निपटने के लिए दक्षता, नवाचार और रणनीतिक मानव संसाधन योजना पर ध्यान दे रही हैं।
+
+**3:53**
+**English:** But the real fear is that Indian IT is losing relevance.
+**Hindi:** लेकिन असली डर यह है कि भारतीय आईटी अपनी प्रासंगिकता खो रही है।
+
+**3:56**
+**English:** Clients are delaying or cancelling transformation projects, waiting for clarity.
+**Hindi:** ग्राहक परिवर्तन परियोजनाओं को टाल रहे हैं या रद्द कर रहे हैं, वे स्पष्टता का इंतज़ार कर रहे हैं।
+
+**4:03**
+**English:** Startups are eating into traditional service models.
+**Hindi:** स्टार्टअप पारंपरिक सेवा मॉडलों को चुनौती दे रहे हैं।
+
+**4:05**
+**English:** And India may no longer be the go-to destination for outsourced tech.
+**Hindi:** और भारत शायद अब आउटसोर्स टेक के लिए पहली पसंद नहीं रहा।
+
+**4:12**
+**English:** Sridhar is calling for a complete rethink—
+**Hindi:** श्रीधर एक सम्पूर्ण पुनर्विचार की मांग कर रहे हैं—
+
+**4:14**
+**English:** not just cost cutting or upskilling,
+**Hindi:** सिर्फ लागत में कटौती या स्किल्स बढ़ाने की नहीं,
+
+**4:16**
+**English:** but redefinition of the industry’s purpose.
+**Hindi:** बल्कि इस उद्योग के उद्देश्य को फिर से परिभाषित करने की ज़रूरत है।
+
+**4:19**
+**English:** It’s time, he says, to move beyond code-for-hire models
+**Hindi:** उनका कहना है कि अब "कोड-फॉर-हायर" मॉडल से आगे बढ़ने का समय आ गया है
+
+**4:23**
+**English:** and invest in product innovation, R\&D, and original IP.
+**Hindi:** और उत्पाद नवाचार, अनुसंधान एवं विकास और मौलिक बौद्धिक संपदा में निवेश करने का।
+
+**4:29**
+**English:** The outsourcing playbook of the 2000s won’t work in 2030s.
+**Hindi:** 2000 के दशक की आउटसोर्सिंग रणनीति 2030 के दशक में काम नहीं आएगी।
+
+**4:36**
+**English:** What’s needed now: resilience, vision, innovation.
+**Hindi:** अब जो ज़रूरी है: लचीलापन, दूरदर्शिता और नवाचार।
+
+**4:39**
+**English:** A hard reset is the need of the hour.
+**Hindi:** एक बड़ा बदलाव समय की आवश्यकता है।
+
+**4:42**
+**English:** Because if we keep blaming AI or America,
+**Hindi:** क्योंकि अगर हम एआई या अमेरिका को ही दोष देते रहेंगे,
+
+**4:45**
+**English:** we might just miss the real problem—the mirror.
+**Hindi:** तो हम असली समस्या—यानि आईने में दिखती अपनी तस्वीर—को शायद देख ही न पाएं।
+
+---
+
+Would you like this in PDF or slide format for easy study?
+
